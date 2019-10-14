@@ -1,11 +1,11 @@
 # YOUR PRODUCT/TEAM NAME
-> _Note:_ This document is meant to evolve throughout the planning phase of your project.    
+> _Note:_ This document is meant to evolve throughout the planning phase of your project.
  > That is, it makes sense for you commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section).
- > Most importantly, it is a reflection of all the planning you work you've done in the first iteration. 
+ > Most importantly, it is a reflection of all the planning you work you've done in the first iteration.
  > **This document will serve as an agreement between your team and your partner.**
 
 ## Product Details
- 
+
 #### Q1: What are you planning to build?
 
  * Short (1 - 2 min' read)
@@ -13,9 +13,9 @@
  * Be clear - Describe the problem you are solving in simple terms.
  * Be concrete. For example:
     * What are you planning to build? Is it a website, mobile app,
-   browser extension, command-line app, etc.?      
+   browser extension, command-line app, etc.?
     * When describing the problem/need, give concrete examples of common use cases.
- * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.      
+ * Focus on *what* your product does, and avoid discussing *how* you're going to implement it.
    For example: This is not the time or the place to talk about which programming language and/or framework you are planning to use.
  * **Feel free (and very much encouraged) to include useful diagrams, mock-ups and/or links**.
 
@@ -24,7 +24,7 @@
 
  * Short (1 - 2 min' read max)
  * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
- * Feel free (but not obligated) to use personas.         
+ * Feel free (but not obligated) to use personas.
    You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
@@ -41,9 +41,9 @@
 #### Q4: How will you build it?
 
  * Short (1-2 min' read max)
- * What is the technology stack? Specify any and all languages, frameworks, libraries, PaaS products or tools. 
+ * What is the technology stack? Specify any and all languages, frameworks, libraries, PaaS products or tools.
  * How will you deploy the application?
- * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
+ * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here.
  * Will you be using third party applications or APIs? If so, what are they?
  * What is your testing strategy?
 
@@ -54,6 +54,14 @@
  * If you have a partner, these must be reviewed and accepted by them
  * The user stories should be written in Github and each one must have clear acceptance criteria
 
+  As a user, I can login with credentials, so that I can securely access my organizations gratitude messages.
+
+ Acceptance critieria:
+ -- Ability to make an account and login
+ -- Ability to check the messages that have been created by the user
+ -- Users should not be able to see other messages made by other organizations
+ -- Able to save messages to make it easier to send to volunteers
+
 ----
 
 ## Process Details
@@ -62,7 +70,7 @@
 
 #### Roles & responsibilities
 
-Describe the different roles on the team and the responsibilities associated with each role. 
+Describe the different roles on the team and the responsibilities associated with each role.
  * Roles should reflect the structure of your team and be appropriate for your project. Not necessarily one role to one team member.
 
 List each team member and:
@@ -74,12 +82,12 @@ List each team member and:
 Describe your team's working culture.
 
 Communications:
- * What is the expected frequency? What methods/channels are appropriate? 
+ * What is the expected frequency? What methods/channels are appropriate?
  * If you have a partner project, what is your process (in detail) for communicating with your partner?
- 
+
 Meetings:
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
- 
+
 Conflict Resolution:
  * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Any other scenarios you can think of?
 
@@ -100,13 +108,22 @@ You must have at least 2 meetings with your project partner - an initial plannin
 
 #### Artifacts
 
-List/describe the artifacts you will produce in order to organize your team.       
+List/describe the artifacts you will produce in order to organize your team.
 
  * Artifacts can be To-Do lists, Task boards, schedule(s), etc.
  * We want to understand:
    * How do you keep track of what needs to get done?
+
+   We will be using github's projects tab to sort tasks, plan projects and track progress.
+
    * How do you prioritize tasks?
+
+   We will try to prioritize what needs to be done first, which is usually what's the most important.
+
    * How do tasks get assigned to team members?
+
+   Tasks get assigned to members who are most familiar with the technology used in the current task or to a member who
+   currently has no other tasks to do.
 
 ----
 ### Highlights
