@@ -20,7 +20,7 @@
 
  ## Licenses 
 
- Keep this section as brief as possible
+ Keep this section as brief as possible. You may read this [Github article](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository) for a start.
 
  * What type of license will you apply to your codebase?
  * What affect does it have on the development and use of your codebase?
