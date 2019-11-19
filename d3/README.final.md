@@ -16,6 +16,10 @@
  * How do you access it? Are accounts pre-created or does a user register? Where do you start? etc. 
  * Provide clear steps for using each feature described above
  * If you cannot deploy your application for technical reasons, please let your TA know at the beginning of the iteration. You will need to demo the application to your partner either way.
+ 
+ ## Development requirements
+ * If a developer were to set this up on their machine or a remote server, what are the technical requirements (e.g. OS, libraries, etc.)?
+ * Briefly describe instructions for setting up and running the application (think a true README).
 
 
  ## Licenses 
